@@ -1,0 +1,33 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Carpetas de compilación
+dist/
+build/
+out/
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de depuración
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
